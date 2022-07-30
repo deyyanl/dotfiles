@@ -1,7 +1,6 @@
 ![.files for MacOS - Save hours setting up your new device](docs/header.png)
-<div>
-<center><span><i>Yeah, I know, missing bash there, looking better without it :P</i></span></center>
-</div>
+*Yeah, I know, missing bash there, looking better without it :P*
+
 ## Installation
 🍹 For a fresh install
 ```sh
