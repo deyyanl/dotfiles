@@ -1,0 +1,37 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorTheme": "Night Owl",
+    "workbench.iconTheme": "material-icon-theme",
+    "sync.quietSync": true,
+    "sync.autoUpload": true,
+    "editor.mouseWheelZoom": true,
+    "path-intellisense.autoSlashAfterDirectory": true,
+    "workbench.startupEditor": "none",
+    "discord.largeImage": "Editing a {lang} file",
+    "discord.lowerDetailsEditing": "{workspace}",
+    "editor.linkedEditing": true,
+    "window.title": "${dirty}${activeEditorShort}${separator}${separator}Parallax Technologies (${rootName})",
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true,
+    "explorer.confirmDelete": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "cmake.configureOnOpen": true,
+    "workbench.productIconTheme": "fluent-icons",
+    "editor.fontFamily": "\"Fira Code\"",
+    "editor.fontLigatures": true,
+    "editor.rulers": [
+    
+    ],
+    "glassit.alpha": 245,
+    "tabnine.experimentalAutoImports": true,
+    "prettier.singleQuote": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "redhat.telemetry.enabled": true,
+    "window.zoomLevel": 1,
+    "diffEditor.ignoreTrimWhitespace": false
+}
